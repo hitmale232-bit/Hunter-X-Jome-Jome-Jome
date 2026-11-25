@@ -1,0 +1,3016 @@
+[
+  {
+    "robloxPath": "Workspace.NPCs.Jason Jason.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Jason Jason/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 338
+  },
+  {
+    "robloxPath": "Workspace.NPCs.Adam Rufus.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Adam Rufus/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 337
+  },
+  {
+    "robloxPath": "Workspace.NPCs.Zacz.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Zacz/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 337
+  },
+  {
+    "robloxPath": "Workspace.NPCs.Medic Julien.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Medic Julien/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 338
+  },
+  {
+    "robloxPath": "Workspace.NPCs.Hazel.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Hazel/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 337
+  },
+  {
+    "robloxPath": "Workspace.NPCs.Wea.ScriptAnim",
+    "class": "Script",
+    "file": "place-scripts/Workspace/NPCs/Wea/ScriptAnim.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 338
+  },
+  {
+    "robloxPath": "Workspace.Interactables.DEATH.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Interactables/DEATH/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 425
+  },
+  {
+    "robloxPath": "Workspace.Map.Cave.HoleExit.Door.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Map/Cave/HoleExit/Door/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 321
+  },
+  {
+    "robloxPath": "Workspace.Map.Cave.HoleEntrance.Door.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Map/Cave/HoleEntrance/Door/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 317
+  },
+  {
+    "robloxPath": "Workspace.Map.Barbershop.Barberpole.SpinScript",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Map/Barbershop/Barberpole/SpinScript.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 244
+  },
+  {
+    "robloxPath": "Workspace.Map.MOYAI.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Map/MOYAI/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 96
+  },
+  {
+    "robloxPath": "Workspace.Map.FOODRESET.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Map/FOODRESET/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 909
+  },
+  {
+    "robloxPath": "Workspace.SpearRig.Animate",
+    "class": "LocalScript",
+    "file": "place-scripts/Workspace/SpearRig/Animate/init.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 15615
+  },
+  {
+    "robloxPath": "Workspace.Todas Lou.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Todas Lou/Script ~1.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2303
+  },
+  {
+    "robloxPath": "Workspace.BUDDY.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/BUDDY/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2721
+  },
+  {
+    "robloxPath": "Workspace.Model.Cutlass.SwordScript",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Model/Cutlass/SwordScript.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 8278
+  },
+  {
+    "robloxPath": "Workspace.Model.Cutlass.Local Gui",
+    "class": "LocalScript",
+    "file": "place-scripts/Workspace/Model/Cutlass/Local Gui.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 554,
+    "attributes": {
+      "OldLinkedSource": [
+        "string",
+        "http://www.roblox.com/asset/?id=1014476"
+      ]
+    }
+  },
+  {
+    "robloxPath": "Workspace.Todas Lou.Script",
+    "class": "Script",
+    "file": "place-scripts/Workspace/Todas Lou/Script ~2.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 359
+  },
+  {
+    "robloxPath": "ReplicatedStorage.Script",
+    "class": "Script",
+    "file": "src/ReplicatedStorage/Script.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 895
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.Utils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/Utils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2134
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.InterpolationUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/InterpolationUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 767
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.MovementFunctions",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/MovementFunctions.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6093
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.HitboxService",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/HitboxService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3408
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.MathUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/MathUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 880
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.VectorUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/VectorUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 613
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.CombatFunctions",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/CombatFunctions/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2292
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.CombatFunctions.WeaponList",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/CombatFunctions/WeaponList.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2185
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.ClockConversion",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/ClockConversion.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 352
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.RelationModule",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/RelationModule.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1072
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.EffectsUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/EffectsUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 45
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.ScaleService",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/ScaleService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3774
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.SearchUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/SearchUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 407
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.RegionLibrary",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/RegionLibrary/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 501
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.ChatUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/ChatUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 158
+  },
+  {
+    "robloxPath": "ReplicatedStorage.CommonResources.Modules.SkillCD",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/CommonResources/Modules/SkillCD.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 299
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.EffectEmitter",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/EffectEmitter.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5153
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.Ambience",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/Ambience.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2145
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.SkillUtils",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/SkillUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 431
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.ChatExtender",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/ChatExtender.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1014
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.AtmosphereLibrary",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/AtmosphereLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 781
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.Deepsight",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/Deepsight.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 379
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.CharacterFunctions",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/CharacterFunctions.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1267
+  },
+  {
+    "robloxPath": "ReplicatedStorage.ClientResources.Modules.UILibrary",
+    "class": "ModuleScript",
+    "file": "src/ReplicatedStorage/ClientResources/Modules/UILibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1323
+  },
+  {
+    "robloxPath": "ReplicatedFirst.AssetLoader",
+    "class": "LocalScript",
+    "file": "src/ReplicatedFirst/AssetLoader.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 365
+  },
+  {
+    "robloxPath": "ServerScriptService.Script",
+    "class": "Script",
+    "file": "src/ServerScriptService/Script.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 1011
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.WeaponRigging",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/WeaponRigging.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 11639
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.PartyService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/PartyService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2423
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AppearanceGenerator",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AppearanceGenerator/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 17968
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AppearanceGenerator.Script",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerResources/Modules/AppearanceGenerator/Script.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1654
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Jump",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Jump.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 732
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Dash",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Dash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3946
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Weave",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Weave.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3975
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Sprint",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Sprint.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 839
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Dragon Rush",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Dragon Rush.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6335
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Block",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Block.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1991
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Adjust Aura",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Adjust Aura.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 10926
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Headbutt Package",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Headbutt Package.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6179
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Viper Slash",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Viper Slash/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5500
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Finishing Slay",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Finishing Slay.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6253
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Knee Release",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Knee Release.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5307
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Leg Breaker",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Leg Breaker.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5138
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Air Strike",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Air Strike.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6881
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Glowing Lantern",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Glowing Lantern.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3245
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Spinning Counter",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Spinning Counter/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6774
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Double Impact",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Double Impact/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5265
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Enhancement",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Enhancement.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2301
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Raging Jolt",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Raging Jolt.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6032
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Plunge",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Plunge/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7929
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Choke Slam",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Choke Slam.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5413
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Hotspring",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Hotspring/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3572
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Solipsis",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Solipsis.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3315
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Lethal Blow",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Lethal Blow.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7402
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Cloaking",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Cloaking.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1595
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Skewer",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Skewer.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6766
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Dragon Claw",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Dragon Claw.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5265
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Infusion",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Infusion.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4596
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Wicker Basket",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Wicker Basket.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5277
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Shinobi Gait",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Shinobi Gait.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 823
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Hollowpoint Strike",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Hollowpoint Strike.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5910
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Drain",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Drain.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4822
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Eight Gates",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Eight Gates.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2505
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.Triple Kick",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/Triple Kick.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7496
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Afterimage Blitz",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Afterimage Blitz.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 279
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Air Strike",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Air Strike.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 7785
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Skewer",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Skewer.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6627
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Bird Soar",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Bird Soar.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1762
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Triple Impact",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Triple Impact.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 5342
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Choke Slam",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Choke Slam.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 914
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.OLD Hue Form",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/OLD Hue Form.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 11184
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Triple Kick",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Triple Kick ~1.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6665
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Deepsight",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Deepsight.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1612
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Dragon Rush",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Dragon Rush.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6841
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Triple Kick",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Triple Kick ~2.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 5814
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Erupting Counter",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Erupting Counter.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 832
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Finishing Slay",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Finishing Slay.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6375
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Flowing Stream",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Flowing Stream.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 3992
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Emulate",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Emulate.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2785
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Headbutt Package",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Headbutt Package.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6071
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Solipsis",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Solipsis.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2582
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Infusion",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Infusion.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 4232
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Dragon Claw",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Dragon Claw.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 4437
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Viper Slash",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Viper Slash.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 6004
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Knee Release",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Knee Release.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 5632
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Leg Breaker",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Leg Breaker.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 5424
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Lethal Blow",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Lethal Blow.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 7235
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.very old.Hue: Cloaking",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/AbilityService/very old/Hue%3A Cloaking.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1619
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.archived.Air Strike",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/archived/Air Strike.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7102
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.archived.Mental Limit Break",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/archived/Mental Limit Break.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4920
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AbilityService.archived.Tactical Scan",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AbilityService/archived/Tactical Scan.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2822
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CombatUtils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CombatUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 10505
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CharacterFunctions",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CharacterFunctions/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1420
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.EffectLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/EffectLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 10769
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.FoodFunctions",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/FoodFunctions/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2542
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.FoodFunctions.FoodList",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/FoodFunctions/FoodList.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1048
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.EconomyService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/EconomyService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 670
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.PlayerService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/PlayerService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 8299
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.TraitLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/TraitLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4782
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.DeathModule",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/DeathModule.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2513
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ShopLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ShopLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4243
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CombatLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CombatLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 14068
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SkillUtils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SkillUtils/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 709
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SkillUtils.DeprecatedSkillList1",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SkillUtils/DeprecatedSkillList1.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 18159
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SkillUtils.DeprecatedSkillList2",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SkillUtils/DeprecatedSkillList2.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 18407
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SkillUtils.SkillList",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SkillUtils/SkillList.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 31180
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.StatusUtils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/StatusUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1394
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ToolLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ToolLibrary/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5413
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ToolLibrary.ItemList",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ToolLibrary/ItemList.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2101
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.PhysicsModule",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/PhysicsModule/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2422
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.DebounceRegistry",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/DebounceRegistry.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1163
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.DataFunctions",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/DataFunctions/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 10968
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.DataFunctions.Clans",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/DataFunctions/Clans.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 36836
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ProfileService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ProfileService/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6565
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ProfileService.Sample",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ProfileService/Sample.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5348
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.StatusLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/StatusLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 8581
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AttributeCalculator",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AttributeCalculator.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3941
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.AttackModule",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/AttackModule.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6923
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1105
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Evil",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Evil.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1008
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Demon",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Demon.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2392
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Ghost",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Ghost.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 946
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Truth",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Truth.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 915
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Holy",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Holy.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1610
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Feather",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Feather.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1110
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Corrosion",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Corrosion.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1739
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Monochrome",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Monochrome.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1488
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerScriptService/ServerResources/Modules/CurseUtils/(empty name).luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 847
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Toy",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Toy.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1214
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.SuperDemon",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/SuperDemon.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3097
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Sealed Sword",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Sealed Sword.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2174
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Vault",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Vault.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4622
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.CurseUtils.Evils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/CurseUtils/Evils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1009
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.StunUtils",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/StunUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5829
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.ProgressionService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/ProgressionService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6364
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SkillLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SkillLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7431
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.SessionLocking",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/SessionLocking.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1084
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.WebhookLibrary",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/WebhookLibrary.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 13948
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.Classes.balls",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/Classes/balls.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 178
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerResources.Modules.Classes.ExamService",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerResources/Modules/Classes/ExamService.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2306
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.CombatSystem",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/CombatSystem.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 14932
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.InteractionManager",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/InteractionManager.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2657
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.StoreManager",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/StoreManager.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 12455
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.__SkillSystem",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/__SkillSystem.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 5280
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.TreasureSpawner",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/TreasureSpawner/init.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5057
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.TreasureSpawner.Script",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/TreasureSpawner/Script.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 3071
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/init.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4144
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager.SearchCatCity",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/SearchCatCity/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 940
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager.RescueCivilian",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/RescueCivilian.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2193
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager.HuntYokaiNPC",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/HuntYokaiNPC.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 859
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager.DeliverNewspaper",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/DeliverNewspaper/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 907
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.MissionManager.CleanUpTrash",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/MissionManager/CleanUpTrash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 256
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.ModerationLoader",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/ModerationLoader/init.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5895
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.ModerationLoader.Commands",
+    "class": "ModuleScript",
+    "file": "src/ServerScriptService/ServerHandlers/ModerationLoader/Commands.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 24944
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.CharacterHandler",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/CharacterHandler.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 15986
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.PlayerHandler",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/PlayerHandler.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5455
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.GameManager",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/GameManager/init.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3857
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.CityHandler",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/CityHandler.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1495
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.DayCycling",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/DayCycling.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2263
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.AbilityHandler",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/AbilityHandler.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 910
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.TrainingHandler",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/TrainingHandler.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 13577
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.ProgressionManager",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/ProgressionManager.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2527
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.SkillSystem",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/SkillSystem.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6556
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.ToolResponder",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/ToolResponder/init.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1931
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.vaultGetType",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/vaultGetType.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 525
+  },
+  {
+    "robloxPath": "ServerScriptService.ServerHandlers.returnRegistry",
+    "class": "Script",
+    "file": "src/ServerScriptService/ServerHandlers/returnRegistry.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1169
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Trait Each Wipe",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Trait Each Wipe.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 32
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Custom Hair",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Custom Hair.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Custom Clothes",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Custom Clothes.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Custom Accessories",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Custom Accessories.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Hue Color Choice",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Hue Color Choice.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.Gamepass.Clothing Membership",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/Gamepass/Clothing Membership.server.luau",
+    "synced": true,
+    "disabled": true,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerScriptService.RobuxStuff.DevProduct.Last Wind",
+    "class": "Script",
+    "file": "src/ServerScriptService/RobuxStuff/DevProduct/Last Wind.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 22
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Release.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Release/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 160
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Full Release.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Full Release/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 160
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Infusion.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Infusion/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 612
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Infusion.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Infusion/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 259
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Lethal Blow.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Lethal Blow/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 867
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Lethal Blow.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Lethal Blow/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 421
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Black Flash.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Black Flash/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Drain.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Drain/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 226
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Stoicism.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Stoicism/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 228
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Unreal Reflexes.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Unreal Reflexes/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Breathing Technique: Concentrated.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Breathing Technique%3A Concentrated/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Double Impact.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Double Impact/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 258
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Dragon Claw.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Dragon Claw/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 232
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Shadow Step: Crow Genjutsu.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Shadow Step%3A Crow Genjutsu/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Feather Fists.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Feather Fists/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Shadow Step: Raven Bane.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Shadow Step%3A Raven Bane/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 224
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Cloaking.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Cloaking/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 212
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Mental Limit Break.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Mental Limit Break/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Viper Slash.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Viper Slash/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 382
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Spinning Counter.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Spinning Counter/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 261
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Emulate.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Emulate/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 867
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Emulate.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Emulate/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 417
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Knee Release.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Knee Release/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 216
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Hotspring.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Hotspring/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 260
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Hotspring.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Hotspring/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 870
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Leg Breaker.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Leg Breaker/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 215
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Skewer.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Skewer/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 227
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Raging Jolt.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Raging Jolt/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 256
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Plunge.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Plunge/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 251
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Choke Slam.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Choke Slam/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 255
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Glowing Lantern.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Glowing Lantern/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 260
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Wicker Basket.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Wicker Basket/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 258
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Tactical Scan.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Tactical Scan/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 874
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Tactical Scan.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Tactical Scan/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 393
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._wip.Hollowpoint Strike.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_wip/Hollowpoint Strike/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 263
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Air Strike.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Air Strike/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 874
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Air Strike.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Air Strike/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 390
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Dragon Rush.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Dragon Rush/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 215
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Finishing Slay.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Finishing Slay/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 874
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Finishing Slay.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Finishing Slay/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 415
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Headbutt Package.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Headbutt Package/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 220
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._broken.Hue: Deepsight.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_broken/Hue%3A Deepsight/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 146
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._broken.Hue: Solipsis.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_broken/Hue%3A Solipsis/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 135
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills._broken.Hue: Cloaking.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/_broken/Hue%3A Cloaking/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 145
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Constant Flux.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Constant Flux/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 223
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Solipsis.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Solipsis/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Psychological Limit Break.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Psychological Limit Break/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Perfect Release.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Perfect Release/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 160
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Triple Kick.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Triple Kick/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 215
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Negation.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Negation/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Eight Gates.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Eight Gates/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills. Disrupting Fang.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/%20Disrupting Fang/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Devourer.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Devourer/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 222
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Reverse Curse Technique.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Reverse Curse Technique/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 0
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Skills.Reverse Curse Technique.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Skills/Reverse Curse Technique/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 612
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Templates.Weapon.CombatClient",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Templates/Weapon/CombatClient.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1322
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Templates.Weapon.CombatServer",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Templates/Weapon/CombatServer.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 4182
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Templates.Food.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Templates/Food/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 4366
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Money Stack.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Money Stack/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 323
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Ankle Weights.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Ankle Weights/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1719
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Wrist Weights.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Wrist Weights/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1780
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Medical Kit.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Medical Kit/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 4971
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Medical Kit.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Medical Kit/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 568
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Meditation Training.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Meditation Training/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 584
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Sparring Mits.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Sparring Mits/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 422
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Sparring Mits.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Sparring Mits/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 282
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Barbell.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Barbell/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 313
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Pushup Training.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Pushup Training/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2390
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.trinkets.Famous Guitar.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/trinkets/Famous Guitar/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 7654
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.trinkets.Famous Guitar.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Misc/trinkets/Famous Guitar/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 3399
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Crystal Knife.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Crystal Knife/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1684
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Handcuffs.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Handcuffs/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1681
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Mask.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Mask/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 862
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Misc.Garganta.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Misc/Garganta/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 3290
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Spiritual Pressure.Script",
+    "class": "Script",
+    "file": "place-scripts/ServerStorage/Tools/Spiritual Pressure/Script.server.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 239
+  },
+  {
+    "robloxPath": "ServerStorage.Tools.Spiritual Pressure.LocalScript",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Tools/Spiritual Pressure/LocalScript.client.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1043
+  },
+  {
+    "robloxPath": "ServerStorage.Main.HUDHandler",
+    "class": "LocalScript",
+    "file": "place-scripts/ServerStorage/Main/HUDHandler/init.client.luau",
+    "synced": false,
+    "disabled": true,
+    "bytes": 12630
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Tessa",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Tessa.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 214
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Jason Jason",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Jason Jason.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 294
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Zacz",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Zacz.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 191
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Hazel",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Hazel.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 178
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Fitz Andmore",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Fitz Andmore.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 2184
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Harris",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Harris.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 256
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Traveller",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Traveller.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 658
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.DrinkGuy",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/DrinkGuy.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1531
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Loner",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Loner.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 391
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.DemonWatcher",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/DemonWatcher.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 738
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Heirloom",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Heirloom.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1509
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.DeepwokenGamer",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/DeepwokenGamer.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 470
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.ImportantFellow",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/ImportantFellow.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 233
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.DragonBallFan",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/DragonBallFan.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 284
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.CurseWeaponGuy",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/CurseWeaponGuy.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 416
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.CombatTrainer",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/CombatTrainer.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1766
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Sleepy",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Sleepy.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 233
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Gambler",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Gambler.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1331
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.FusionDebater",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/FusionDebater.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 518
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Jokester",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Jokester.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 343
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.SmilingPerson",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/SmilingPerson.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 472
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.HuePractitioner",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/HuePractitioner.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1082
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Misc",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Misc.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 382
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.OnePieceFan",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/OnePieceFan.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 292
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.BrainRotted",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/BrainRotted.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 660
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.MoneyExpert",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/MoneyExpert.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1469
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.LegendTeller",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/LegendTeller.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 1626
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.Avocado",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/Avocado.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 248
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.MoneyMan",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/MoneyMan.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 602
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.JJKFan",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/JJKFan.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 391
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.CollectorLore",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/CollectorLore.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 554
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.GokuFan",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/GokuFan.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 216
+  },
+  {
+    "robloxPath": "ServerStorage.DialogSets.Generic.AnnoyedGuy",
+    "class": "ModuleScript",
+    "file": "place-scripts/ServerStorage/DialogSets/Generic/AnnoyedGuy.luau",
+    "synced": false,
+    "disabled": false,
+    "bytes": 280
+  },
+  {
+    "robloxPath": "StarterGui.Effects.LocalScript",
+    "class": "LocalScript",
+    "file": "src/StarterGui/Effects/LocalScript/init.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1614
+  },
+  {
+    "robloxPath": "StarterGui.Notebook.LocalScript",
+    "class": "LocalScript",
+    "file": "src/StarterGui/Notebook/LocalScript/init.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6382
+  },
+  {
+    "robloxPath": "StarterGui.Mission.LocalScript",
+    "class": "LocalScript",
+    "file": "src/StarterGui/Mission/LocalScript.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1457
+  },
+  {
+    "robloxPath": "StarterGui.HUD.LocalScript",
+    "class": "LocalScript",
+    "file": "src/StarterGui/HUD/LocalScript/init.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 13022
+  },
+  {
+    "robloxPath": "StarterGui.ATM.LocalScript",
+    "class": "LocalScript",
+    "file": "src/StarterGui/ATM/LocalScript.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1112
+  },
+  {
+    "robloxPath": "StarterGui.SurfaceGui.MirrorCamera",
+    "class": "LocalScript",
+    "file": "src/StarterGui/SurfaceGui/MirrorCamera/init.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2405
+  },
+  {
+    "robloxPath": "StarterGui.SurfaceGui.MirrorCamera.ViewportHandler",
+    "class": "ModuleScript",
+    "file": "src/StarterGui/SurfaceGui/MirrorCamera/ViewportHandler.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7035
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 824
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 23490
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraToggleStateController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraToggleStateController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2564
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.BaseCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/BaseCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 28533
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.LegacyCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/LegacyCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3967
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.MouseLockController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/MouseLockController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7703
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.Poppercam",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/Poppercam.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3160
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.BaseOcclusion",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/BaseOcclusion.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1455
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.TransparencyController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/TransparencyController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6879
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRBaseCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRBaseCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 12161
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.Invisicam",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/Invisicam.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 20341
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.OrbitalCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/OrbitalCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 14353
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ZoomController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ZoomController/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3735
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ZoomController.Popper",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ZoomController/Popper.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 9341
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.ClassicCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/ClassicCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 9673
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7212
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraCore",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraCore.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4860
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VehicleCamera.VehicleCameraConfig",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VehicleCamera/VehicleCameraConfig.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1917
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraUtils",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraUtils.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 9321
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRVehicleCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRVehicleCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 17602
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraInput",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraInput.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 16395
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.CameraUI",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/CameraUI.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 784
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.CameraModule.VRCamera",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/CameraModule/VRCamera.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 16364
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 26626
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.VehicleController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/VehicleController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6509
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.BaseCharacterController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/BaseCharacterController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1401
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.PathDisplay",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/PathDisplay.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3315
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.TouchThumbstick",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/TouchThumbstick.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 8452
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.DynamicThumbstick",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/DynamicThumbstick.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 21126
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.Gamepad",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/Gamepad.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6809
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.ClickToMoveController",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/ClickToMoveController.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 36659
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.Keyboard",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/Keyboard.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6155
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.TouchJump",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/TouchJump.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 6805
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.ClickToMoveDisplay",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/ClickToMoveDisplay.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 17009
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.PlayerModule.ControlModule.VRNavigation",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/PlayerModule/ControlModule/VRNavigation.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 13574
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.chatScript",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/chatScript.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2191
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.AmbienceController",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/AmbienceController.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 5002
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.CharacterController",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/CharacterController.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3033
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.DisplayHandler",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/DisplayHandler.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3341
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.PlayerLoader",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/PlayerLoader.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3579
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.ConsoleShiftlock",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/ConsoleShiftlock.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1368
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.ChatFeedback",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/ChatFeedback.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3098
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.InputRegistry",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/InputRegistry.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3086
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.MuseDirector",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/MuseDirector.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 4701
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.ActionController",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/ActionController.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 7712
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator",
+    "class": "LocalScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/init.client.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1250
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.DepricatedBasicSlash",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/DepricatedBasicSlash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1841
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.CraterChunks",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/CraterChunks.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3000
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.SurfaceCrack",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/SurfaceCrack.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1825
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.FlyingDebris",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/FlyingDebris.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1925
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.DebrisSmoke",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/DebrisSmoke.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1221
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.Disappear",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/Disappear.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1555
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.CriticalFlash",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/CriticalFlash/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3250
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.StillParticle",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/StillParticle.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1012
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.DepricatedBasicEffect",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/DepricatedBasicEffect.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1632
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.ShockwaveEffect",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/ShockwaveEffect.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1366
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.ViperSlash",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/ViperSlash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1819
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.DeepsightEffect",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/DeepsightEffect.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 3113
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.Slash",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/Slash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 917
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.HighlightFlash",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/HighlightFlash.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 835
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.ShockwaveDust",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/ShockwaveDust.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1048
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.TrailEffect",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/TrailEffect.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 947
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.DragonRush",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/DragonRush.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1346
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.Swipe",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/Swipe.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1768
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.ShadowFlicker",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/ShadowFlicker/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 1052
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterPlayerScripts.ClientHandlers.Replicator.GlowingLantern",
+    "class": "ModuleScript",
+    "file": "src/StarterPlayer/StarterPlayerScripts/ClientHandlers/Replicator/GlowingLantern/init.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 2339
+  },
+  {
+    "robloxPath": "StarterPlayer.StarterCharacterScripts.Health",
+    "class": "Script",
+    "file": "src/StarterPlayer/StarterCharacterScripts/Health.server.luau",
+    "synced": true,
+    "disabled": false,
+    "bytes": 16
+  }
+]

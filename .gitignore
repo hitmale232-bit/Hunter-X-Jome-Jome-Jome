@@ -1,0 +1,23 @@
+# Place files: the game itself lives on Roblox, not in git (big binary files)
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Made by tools
+sourcemap.json
+roblox.yml
+/build/
+
+# Editor / OS clutter
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets: never commit these
+.env
+*.secret

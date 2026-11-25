@@ -1,0 +1,7 @@
+# Text files get LF line endings on every machine...
+* text=auto eol=lf
+
+# ...except scripts: they are kept byte-for-byte as Studio had them (35 of them use Windows CRLF endings).
+# Converting them would make Rojo rewrite 35 scripts the first time it connects.
+*.luau -text
+*.lua -text

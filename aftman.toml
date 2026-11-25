@@ -1,0 +1,5 @@
+# Tools for this project, installed by Aftman (https://github.com/LPGhatguy/aftman).
+# After cloning, run `aftman install` once in this folder.
+[tools]
+rojo = "rojo-rbx/rojo@7.7.1"
+selene = "Kampfkarren/selene@0.32.0"

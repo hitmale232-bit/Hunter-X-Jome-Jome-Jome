@@ -1,0 +1,3 @@
+local EffectsUtils = {}
+
+return EffectsUtils
